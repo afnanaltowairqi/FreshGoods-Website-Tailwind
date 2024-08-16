@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom-img {
+    background-image: url(https://stone-horn-a78.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F989539c7-7a6d-4611-9778-eb2623dec992%2F55d7c998-fd67-4237-a21a-c7f9699e229a%2FScreen_Shot_2023-11-26_at_10.49.03_AM_cleanup.png?table=block&id=8328772e-ae4e-4183-8c09-34ac461e12e4&spaceId=989539c7-7a6d-4611-9778-eb2623dec992&width=1440&userId=&cache=v2);
+}
+.custom-imges{
+    background-image: url(https://stone-horn-a78.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F989539c7-7a6d-4611-9778-eb2623dec992%2Fb065d811-70a9-454e-947e-699ec2801a37%2FScreen_Shot_2023-11-26_at_11.01.17_AM_cleanup.png?table=block&id=07e61fdc-453b-4039-bd9b-f31c905402e5&spaceId=989539c7-7a6d-4611-9778-eb2623dec992&width=1440&userId=&cache=v2);
+}
+.custom-imges3{
+    background-image: url(https://stone-horn-a78.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F989539c7-7a6d-4611-9778-eb2623dec992%2F1bf45807-806c-4ab9-a756-d7ff6c3f56f6%2FScreen_Shot_2023-11-26_at_11.03.28_AM_cleanup.png?table=block&id=014ea53e-b9b6-459f-9bab-1a5c30528698&spaceId=989539c7-7a6d-4611-9778-eb2623dec992&width=1440&userId=&cache=v2);
+}
